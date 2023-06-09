@@ -1,0 +1,22 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.xml
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.Form1.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.Resources.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.xml
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.xml
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\bin\Debug\Cap04_Exer05a.xml
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.Form1.resources
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\Cap04_Exer05a.Resources.resources
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap04_Exer05a\Cap04_Exer05a\obj\x86\Debug\GenerateResource.write.1.tlog
