@@ -1,0 +1,14 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\bin\Debug\Cap05_Exer01c.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\bin\Debug\Cap05_Exer01c.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\bin\Debug\Cap05_Exer01c.xml
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.Form1.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.Resources.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.xml
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Exer01c\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Exer01c\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.xml
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Exer01c\Cap05_Exer01c\obj\x86\Debug\Cap05_Exer01c.pdb
