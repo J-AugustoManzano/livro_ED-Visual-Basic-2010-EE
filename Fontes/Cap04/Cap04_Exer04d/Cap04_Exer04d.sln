@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cap04_Exer04d", "Cap04_Exer04d\Cap04_Exer04d.vbproj", "{F15260BC-7B96-4B1D-BB7C-E6D3A8191801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15260BC-7B96-4B1D-BB7C-E6D3A8191801}.Debug|x86.ActiveCfg = Debug|x86
+		{F15260BC-7B96-4B1D-BB7C-E6D3A8191801}.Debug|x86.Build.0 = Debug|x86
+		{F15260BC-7B96-4B1D-BB7C-E6D3A8191801}.Release|x86.ActiveCfg = Release|x86
+		{F15260BC-7B96-4B1D-BB7C-E6D3A8191801}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
